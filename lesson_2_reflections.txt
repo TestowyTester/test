@@ -1,3 +1,13 @@
 What happens when you initialize a repository? Why do you need to do it?
 When I initialize a repository git create a hidden directory where it's storing
 a metadata needed to track history of files. Why do I need it? I have no idea.
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+I can add files to the staging area and before every commit I can check what changes
+I've made and remove files from staging area when needed.
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+Branches would be helpful in keeping my history organized when I want to check
+a new experimental feature which can won't work.
